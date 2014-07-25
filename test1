@@ -1,2 +1,5 @@
 My git demo file
+<<<<<<< HEAD
 My git demo file
+=======
+>>>>>>> 3c76f6c... add a new file for demo purpose
